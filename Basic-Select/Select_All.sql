@@ -9,4 +9,6 @@
 | DISTRICT    | VARCHAR2(20) |
 | POPULATION  | NUMBER       |
 
+**SOLUTIONS**
+  
 SELECT * FROM CITY;
